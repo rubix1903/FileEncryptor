@@ -14,6 +14,11 @@ Displays a full ASCII art banner on every run.
     File Encryption Utility  |  AES-128-CBC & XOR  |  v1.0.0
   ──────────────────────────────────────────────────────────────
 ```
+![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
+![CMake](https://img.shields.io/badge/CMake-3.20+-064F8C)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
 ---
 ## Project Structure
